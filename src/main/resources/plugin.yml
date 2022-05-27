@@ -1,0 +1,6 @@
+name: StrikePlaceholders
+main: net.yenil.strikeplaceholders.Main
+version: 1.0
+api-version: 1.13
+depend: [PlaceholderAPI]
+author: Yenil
