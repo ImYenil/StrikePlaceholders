@@ -4,3 +4,6 @@ version: 1.0
 api-version: 1.13
 depend: [PlaceholderAPI]
 author: Yenil
+commands:
+  strikeplaceholders:
+    description: StrikePlaceholders Main Command
