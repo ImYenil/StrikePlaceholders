@@ -18,7 +18,7 @@ public class StrikePlaceholdersCommand implements CommandExecutor {
         }
         if (args.length == 0) {
             sender.sendMessage(ChatColor
-                    .translateAlternateColorCodes('&', "/strikeplaceholders reload"));
+                    .translateAlternateColorCodes('&', "&a/strikeplaceholders reload"));
             return true;
         }
         String subCommand = args[0];
