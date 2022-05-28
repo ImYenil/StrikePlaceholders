@@ -5,7 +5,6 @@ import ga.strikepractice.api.StrikePracticeAPI;
 import ga.strikepractice.party.Party;
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 import net.yenil.strikeplaceholders.messages.Message;
-import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.jetbrains.annotations.NotNull;
 
